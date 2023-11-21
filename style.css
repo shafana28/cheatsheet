@@ -1,0 +1,88 @@
+body {
+    background-color: bisque;
+    font-style: normal;
+    margin:2px auto; 
+}
+
+header {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 2px;
+    background-color: #37322e;
+}
+
+header h1,h2 {
+    color:#8c6b48;
+}
+
+header p{
+    color:antiquewhite;
+}
+
+header li{
+    list-style: none;
+    color:gray;
+}
+
+#span{
+    background-color: black;
+}
+#col{
+    color:#8c6b48;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:black;
+}
+
+#attri{
+    background-color: black;
+    font-size:20px;
+    color:#8c6b48;
+}
+.tagdes{
+    color:red;
+}
+th {
+    border: 2px solid #8c6b48;
+  }
+
+td {
+    border: 2px solid #8c6b48;
+    width: 300px;
+  }
+
+
+
+table {
+    text-align: center;
+    margin: 20px auto;
+    
+}
+
+.tableref {
+    width:50%;
+    height:70%;
+}
+
+.moretag {
+    text-align: center;
+}
+
+.left {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#tab {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.ref {
+    margin:20px auto;
+
+}
+
+.attribute {
+    padding-top: 20px;
+    width:50%;
+    height:250%;
+}
